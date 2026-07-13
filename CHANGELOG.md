@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.0-alpha.12](https://github.com/astroautomata/SymbolicRegression.jl/compare/v2.0.0-alpha.11...v2.0.0-alpha.12) (2026-07-13)
+
+
+### Bug Fixes
+
+* suppress 'press q' prompt when input_stream is devnull ([#623](https://github.com/astroautomata/SymbolicRegression.jl/issues/623)) ([3130ece](https://github.com/astroautomata/SymbolicRegression.jl/commit/3130ece5b942981856d073d63ccacc96460a1302))
+
 ## [2.0.0-alpha.11](https://github.com/astroautomata/SymbolicRegression.jl/compare/v2.0.0-alpha.10...v2.0.0-alpha.11) (2026-05-17)
 
 ### Features
